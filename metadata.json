@@ -1,0 +1,6 @@
+{
+  "name": "SlothMeter - เครื่องวัดระดับความขี้เกียจสากล",
+  "description": "แบบประเมินและเครื่องตรวจวัดระดับความขี้เกียจ วิเคราะห์พฤติกรรม สุ่มข้ออ้าง คำนวณพลังงานที่ประหยัดได้ และออกใบประกาศนียบัตรคนขี้เกียจดีเด่น",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
